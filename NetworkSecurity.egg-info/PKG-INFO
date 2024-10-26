@@ -6,5 +6,7 @@ Author-email: vg498660@gmail.com
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: pymongo
 Requires-Dist: certifi
+Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]==3.6
+Requires-Dist: scikit-learn
